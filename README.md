@@ -11,11 +11,9 @@ Build a simple CRUD app (Create, Read, Update and Delete) using Node, MongoDB an
 ## Installation Steps (if applicable)
 
 1. Start MongoDB running locally with `mongod`
-2. Clone the repo
-3. cd vocab-builder/server
-4. npm i
-5. npm run start
-6. cd ../front-end
-7. npm i
-8. npm run serve
-9. Go to http://localhost:8080/
+2. npm i
+3. npm run start
+4. cd ../front-end
+5. npm i
+6. npm run serve
+7. Go to http://localhost:8080/
